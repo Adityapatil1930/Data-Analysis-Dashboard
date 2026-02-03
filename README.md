@@ -22,3 +22,5 @@ https://github.com/Adityapatil1930/Data-Analysis-Dashboard/blob/main/Vrinda%20St
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+## Dashboard
+<img width="1312" height="511" alt="dashboardscreenshot" src="https://github.com/user-attachments/assets/f6f15c4c-b748-48e0-84d7-0ae2637a0048" />
